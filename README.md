@@ -1,4 +1,4 @@
-### Hello and welcome to my GitHub profile page 👋
+### Hello and welcome 👋
 
 I'm a maker and a product consultant working remotely from Southern Spain.
 
