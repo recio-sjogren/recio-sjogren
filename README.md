@@ -4,8 +4,8 @@ I'm a maker and a product consultant working remotely from Southern Spain.
 
 I just found out about the new GitHub README bios. I'll be updating it shortly! 
 
-Have a great day,
-Manolo
+Have a great day,  
+Manolo   
 [recio_sjogren](https://twitter.com/recio_sjogren)
 
 <!--
