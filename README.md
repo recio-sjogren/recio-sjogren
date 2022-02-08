@@ -6,7 +6,7 @@ I just found out about the new GitHub README bios. I'll be updating it shortly!
 
 Have a great day,  
 Manolo   
-[recio_sjogren](https://twitter.com/recio_sjogren)
+[@recio_sjogren](https://twitter.com/recio_sjogren)
 
 <!--
 **recio-sjogren/recio-sjogren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
