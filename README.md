@@ -1,6 +1,8 @@
 ### Hi, I'm Manolo 👋
 
-I'm a maker and a product design consultant working remotely from Southern Spain.
+I'm a maker and a product consultant working remotely from Southern Spain.
+
+I just found out about the new GitHub README bios. I'll be updating it shortly! 
 
 <!--
 **recio-sjogren/recio-sjogren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
