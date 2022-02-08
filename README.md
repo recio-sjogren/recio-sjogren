@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Manolo 👋
+
+I'm a maker and a product design consultant working remotely from Southern Spain.
 
 <!--
 **recio-sjogren/recio-sjogren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
