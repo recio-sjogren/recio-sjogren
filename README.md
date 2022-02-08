@@ -1,4 +1,4 @@
-### Hi, I'm Manolo 👋
+### Hello and welcome to my GitHub profile page 👋
 
 I'm a maker and a product consultant working remotely from Southern Spain.
 
